@@ -1,0 +1,8 @@
+date,departments,doctor_id,day_of_week,daily_visits,daily_admissions,admission_rate,patient_days,daily_discharge,wait_time,daily_revenue,ctf_daily,daily_profit,ctp_daily,beds_in_use,total_beds,occupancy_rate,daily_readmission,readmission_rate,bed_turnover,employee_count,employee_resign,employee_turnover,equip_count,equip_use,staff_patient_ratio,refer_reason
+2024-11-01,surgery,D001,Monday,12,7,0.5833,5,4,10,700000,0,400000,0,9,16,0.5625,2,0.5,1.25,15,2,0.1333,18,10,5:4,surgical
+2024-11-02,pediatric,D002,Tuesday,24,14,0.5833,3,7,25,400000,0,100000,0,16,23,0.6957,5,0.7143,0.4286,24,2,0.0833,8,8,1:1,overwhelmed
+2024-11-03,obgyn,D003,Wednesday,30,10,0.3333,2,12,12,550000,0,250000,0,12,19,0.6316,3,0.25,0.1667,45,1,0.0222,10,6,3:2,specialist
+2024-11-04,neurology,D004,Thursday,7,3,0.4286,7,3,20,400000,0,100000,0,5,12,0.4167,1,0.3333,2.3333,14,1,0.0714,7,4,2:1,lab
+2024-11-05,oncology,D005,Friday,9,4,0.4444,8,5,10,350000,0,50000,0,6,13,0.4615,1,0.2,1.6,9,3,0.3333,10,8,1:1,overwhelmed
+2024-11-06,radiology,D006,Saturday,20,8,0.4,3,14,20,500000,0,200000,0,10,17,0.5882,2,0.1429,0.2143,30,2,0.0667,15,12,3:2,equipment
+2024-11-07,pathology,D007,Sunday,15,9,0.6,2,8,10,450000,0,150000,0,11,18,0.6111,3,0.375,0.25,15,1,0.0667,9,7,1:1,capacity
